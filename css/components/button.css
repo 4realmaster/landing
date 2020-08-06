@@ -1,0 +1,16 @@
+.btn-hero {
+  text-decoration: none;
+  color: gray;
+  background-color: white;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 25px;
+  border-width: thin;
+  padding: 10px 15px;
+  font-weight: light;
+  opacity: 0.5;
+}
+
+.btn-hero:hover {
+  opacity: 1;
+}

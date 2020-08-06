@@ -1,0 +1,83 @@
+body {
+  margin: 50px;
+}
+
+.banner h1 {
+  margin-top: 0px;
+}
+
+.container {
+  height: 600px;
+  color: white;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px gray;
+  background-size: cover;
+}
+
+.container h1 {
+  margin-top: 0px;
+  padding-top: 100px;
+}
+
+.container p {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.container h2 {
+  margin-top: 0px;
+  padding-top: 100px;
+}
+
+.images3 img{
+  height: 100%;
+  width: 450px;
+  object-fit: cover;
+  border-style: solid;
+}
+
+.banner2 {
+  display: flex;
+  border-style: solid;
+
+}
+
+.card {
+  display: flex;
+  border-style: solid;
+}
+
+.card-trip {
+  background: white;
+  border-style: solid;
+  border-color: white;
+  box-shadow: 0px 0px 5px gray;
+  border: 0px;
+}
+
+.card-trip img {
+  width: 110%;
+  object-fit: cover;
+}
+
+.card-trip-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 50px;
+  /*to align at the bottom*/
+  padding: 16px;
+}
+
+.card-trip-footer h2 {
+  font-size: 12px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.card-trip-footer-text p {
+  font-size: 9px;
+  padding: 0px;
+  margin: 0px;
+}
+
